@@ -1,1 +1,13 @@
-today 11/09/26
+Working Directory
+       ↓
+    git add
+       ↓
+Staging Area
+       ↓
+  git commit
+       ↓
+Local Repository
+       ↓
+   git push
+       ↓
+     GitHub
